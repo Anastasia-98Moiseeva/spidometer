@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">spidometer</string>
+
+    <string name="txt0">0</string>
+    <string name="txt20">20</string>
+    <string name="txt40">40</string>
+    <string name="txt60">60</string>
+    <string name="txt80">80</string>
+    <string name="txt100">100</string>
+    <string name="txt120">120</string>
+    <string name="txt140">140</string>
+    <string name="txt160">160</string>
+</resources>
